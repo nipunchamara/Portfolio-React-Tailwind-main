@@ -1,7 +1,5 @@
 # Personal Portfolio Website using React + Tailwind CSS
 
-![personal portfolio website](https://github.com/user-attachments/assets/7751f7e8-76f1-4010-892c-525844d989cf)
-
 ## Project Overview
 A modern personal portfolio website built with React and Tailwind CSS, showcasing projects, skills, and services.
 
@@ -9,7 +7,7 @@ A modern personal portfolio website built with React and Tailwind CSS, showcasin
 - Responsive design for all devices
 - Project showcase with images and links
 - Services section highlighting skills
-- Dark/light mode toggle
+- QR code available for mobile scanning
 
 ## Technologies Used
 - React
@@ -20,7 +18,7 @@ A modern personal portfolio website built with React and Tailwind CSS, showcasin
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/nipunchamara/Portfolio-React-Tailwind.git
+https://github.com/nipunchamara/Portfolio.git
 ```
 2. Install dependencies
 ```bash
@@ -43,6 +41,3 @@ npm run build
   /App.jsx - Main application
   /main.jsx - Entry point
 ```
-
-## License
-MIT
